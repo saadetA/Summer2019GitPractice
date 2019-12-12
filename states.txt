@@ -10,3 +10,5 @@ NY
 AL
 VA
 NJ
+AZ
+KS
